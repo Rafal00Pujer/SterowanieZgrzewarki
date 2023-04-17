@@ -1,0 +1,2 @@
+# SterowanieZgrzewarki
+Prototyp Sterowania Zgrzewarki
